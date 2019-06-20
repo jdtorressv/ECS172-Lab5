@@ -1,1 +1,1 @@
-# ECS172-Lab5
+# EEC172-Lab5
